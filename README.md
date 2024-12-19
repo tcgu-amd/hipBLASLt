@@ -69,6 +69,7 @@ To install hipBLASLt, you must meet the following requirements:
 
 Required hardware:
 
+* gfx908 card
 * gfx90a card
 * gfx94x card
 * gfx110x card
